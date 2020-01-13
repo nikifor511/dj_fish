@@ -8,5 +8,5 @@ class FishingPlace(models.Model):
      photos = models.TextField('Photos of place')
 
 class PlaceOrder(models.Model):
-    FishingPlace
+    FishingPlace =
 
